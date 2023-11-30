@@ -1,0 +1,18 @@
+run:
+==== Program Perhitungan Gaji Karyawan ====
+Masukkan NIK: 037827382374837
+Masukkan Nama : febrian naufal 
+Masukkan Golongan (1/2/3): 1
+Masukkan Jabatan (Manager/Kabag): manager
+Masukkan Jumlah Kehadiran : 12
+
+Hasil Perhitungan----
+NIK          : 037827382374837
+NAMA         : febrian naufal 
+GOLONGAN     : 1
+JABATAN      : manager
+TUNJANGAN GOLONGAN  : 500000.0
+TUNJANGAN JABATAN   : 2000000.0
+TUNJANGAN KEHADIRAN : 120000.0
+GAJI TOTAL   : 2620000.0
+BUILD SUCCESSFUL (total time: 48 seconds)
